@@ -5,11 +5,21 @@ body {
     padding: auto;
     text-align: center;
     font-family: 'Comic Neue', cursive;
-    background: #feffd9;
+    background: #202020;
 }
 
 h1 {
     margin: auto;
+    font-weight: normal;
+}
+
+strong {
+    background: #3498db;
+    border-radius: 0.4rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
 }
 
 .center {
