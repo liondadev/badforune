@@ -8,7 +8,15 @@ const fortunes = [
     ["You will get <strong>pooped on by a cow</strong> then <strong>fall over</strong> and <strong>die</strong>", "https://modernfarmer.com/wp-content/uploads/2021/03/shutterstock_1728214024.jpg"],
     ["You will get <strong>cancelled on twitter</strong>", "https://i.insider.com/50db38a069bedd0d1000000c"],
     ["You will <strong>drink</strong> too much <strong>gasoline</strong>", "https://i.ytimg.com/vi/LX12mFeDcjQ/maxresdefault.jpg"],
-    ["You will <strong>loose your minecraft bedwars winstreak</strong> of <strong>420</strong>", "https://i.ytimg.com/vi/OqEcoMG70a0/maxresdefault.jpg"],
+    //["You will <strong>loose your minecraft bedwars winstreak</strong> of <strong>420</strong>", "https://i.ytimg.com/vi/OqEcoMG70a0/maxresdefault.jpg"],
+    ["You will be <strong>alone</strong> for the <strong>rest of your life.</strong>", ""],
+    ["You will be <strong>forced to eat cockroaches</strong> for the rest of your life.", ""],
+    ["You will get <strong>run over</strong> by a <strong>car</strong>... Twice (<strong>same car btw</strong>)", ""],
+    ["You will <strong>humiliate yourself</strong> in public", ""],
+    ["Your <strong>dream school won't accept you.</strong>", ""],
+    ["You will take a <strong>monsterous fart</strong> infront of your <strong>secret love</strong>.", ""],
+    ["You will get <strong>hit in the head</strong> by a <strong>falling branch</strong>.", ""],
+    ["You will find out in 26.4354 hours that your parents dont love you... <strong>and never did :)</strong>", ""],
 ];
 var lastFortune = "";
 
